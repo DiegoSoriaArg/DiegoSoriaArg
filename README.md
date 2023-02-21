@@ -3,6 +3,4 @@
 
 - ⚡ Dato curioso: "El sueño de esta carrera comenzo mientras emprendia un modelo de negocio, que al dia de hoy, poseen millonarias empresas..."  ;-) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SoriaDev)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCLBBx4BzIAY-grcOSDpefOw)
-
 ![Profile views](https://gpvc.arturio.dev/DiegoSoriaArg)  
