@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Soria</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegosoriaarg&label=Profile%20views&color=0e75b6&style=flat" alt="diegosoriaarg" /> </p>
+![Bienvenidos a mi GitHub](https://user-images.githubusercontent.com/71338268/237708026-9cdae711-6841-4f54-82b9-c942e0022747.jpg)
 
 - 🔭 I work as a freelancer in [Soria-Developer](https://soriadev.netlify.app/)
 
@@ -27,3 +27,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegosoriaarg&show_icons=true&locale=en&layout=compact" alt="diegosoriaarg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegosoriaarg&" alt="diegosoriaarg" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegosoriaarg&label=Profile%20views&color=0e75b6&style=flat" alt="diegosoriaarg" /> </p>
