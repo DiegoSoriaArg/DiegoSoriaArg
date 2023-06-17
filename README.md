@@ -22,7 +22,7 @@
 </p>
 
 
-<div style="display: "flex"">
+<div style="display: flex">
 
 
 <div>
