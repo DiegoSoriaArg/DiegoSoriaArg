@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Soria</h1>
-![Bienvenidos a mi GitHub](https://user-images.githubusercontent.com/71338268/237708026-9cdae711-6841-4f54-82b9-c942e0022747.jpg)
+<img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://user-images.githubusercontent.com/71338268/237708026-9cdae711-6841-4f54-82b9-c942e0022747.jpg)"/>
 
 - 🔭 I work as a freelancer in [Soria-Developer](https://soriadev.netlify.app/)
 
